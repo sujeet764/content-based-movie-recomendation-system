@@ -1,0 +1,13 @@
+Download the dataset from the link
+https://drive.google.com/file/d/1X3uZfvbbONVPnJbsYi3ozdneq2QTgXc7/view?usp=sharing
+
+Steps to run the code
+
+1.load the dataset 
+2.run content-based-movie-recommendaton.ipynb
+3.run book refcom.ipynb
+3.run song_recommend.ipynb
+4.run bollywood_file.ipynb
+4.create 4 folder hollywood,boollywood,song and books
+5.copy the generated pickle file from step 2,3,4 in the created folder.Put hollywood file in hollywood folder and same for all.
+6.run MOvie-Recomend-interface.ipynb
